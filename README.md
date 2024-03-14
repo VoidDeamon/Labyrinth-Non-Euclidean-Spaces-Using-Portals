@@ -1,14 +1,13 @@
 # Labyrinth-Non-Euclidean-Spaces-Using-Portals
 
-Labyrinth/Portal Demo Walkthrough/Instructions
 Controls
 Movement:
-	W :- Forwards
-	A :- Left
-	S :- Backwards
-	D :- Right
-	Mouse :- Look
-Menu
+	W - Forwards
+ 	A - Left
+  	S - Backwards
+   	D - Right
+	Mouse - Look
+Menu:
 Escape :- Pause Game/Open Menu & Resume Game/Close Menu
 Mouse :- move cursor
 Mouse 1 :- Select Option
