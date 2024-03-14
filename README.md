@@ -9,6 +9,8 @@ Movement:
 	W - Forwards
  
 	A - Left
+
+ 	S - Back
  
 	D - Right
  
